@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Solar System",
+  "description": "An interactive 3D model of our solar system.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
